@@ -7,6 +7,7 @@ public: // Access specifier
     void myMethod()
     { // Method/function
         cout << "Hello World!";
+        cout << "hello universe";
     }
 };
 
@@ -17,3 +18,4 @@ int main()
     return 0;
 }
 // Added comment
+// This is second comment
