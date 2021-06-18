@@ -13,6 +13,9 @@ public: // Access specifier
 int main()
 {
     MyClass myObj; // Create an object of MyClass (this will call the constructor)
+    MyClass myObj;  // Testing diff head in git
+    // yogesh kartik
+    // Testing head again
     system("pause"); // Added pause command
     return 0;
 }
