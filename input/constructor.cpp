@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 class MyClass
 {       // The class
@@ -13,11 +13,8 @@ public: // Access specifier
 int main()
 {
     MyClass myObj; // Create an object of MyClass (this will call the constructor)
-    MyClass myObj; // Testing diff head in git
-    // yogesh kartik
-    // Testing head again
-    // Testing staged diff
-    // Testing git again
     system("pause"); // Added pause command
+    // Added a test comment
+    // Added a  staged test comment
     return 0;
 }
