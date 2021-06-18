@@ -12,9 +12,7 @@ public: // Access specifier
 
 int main()
 {
-    MyClass myObj; // Create an object of MyClass (this will call the constructor)
-    system("pause"); // Added pause command
-    // Added a test comment
-    // Added a  staged test comment
+    MyClass myObj; // Called constructor
+    system("pause");
     return 0;
 }
