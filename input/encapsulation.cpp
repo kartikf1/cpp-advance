@@ -21,6 +21,7 @@ main()
 {
     employee sohan;
     sohan.setSalary(3000);
-    cout << "The salary of sohan is : " << sohan.getSalary();
+    cout << "The salary of sohan is : " << sohan.getSalary() << "\n";
+    system("pause");
     return 0;
 }
