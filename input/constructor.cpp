@@ -6,7 +6,7 @@ class MyClass
 public: // Access specifier
     MyClass()
     { // Constructor
-        cout << "Hello World!";
+        cout << "Hello World!\n";
     }
 };
 

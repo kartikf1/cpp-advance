@@ -25,5 +25,6 @@ main()
     students person;
     cout << "Roll no. of " << person.name << " is " << person.roll << "\n";
     // cout << "D.O.B. of " << person.name << " is " << person.dob << "\n";
+    system("pause");
     return 0;
 }
